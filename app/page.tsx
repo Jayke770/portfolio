@@ -291,6 +291,7 @@ export default function Home() {
         </div>
       </ section>
 
+      
       {/* Contact Section */}
       < section id="contact" className="py-20 bg-black" >
         <div className="container mx-auto px-4">
